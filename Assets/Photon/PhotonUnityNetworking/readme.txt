@@ -4,17 +4,7 @@ Photon Unity Networking (PUN)
     Also included: A setup wizard, demo scenes, documentation and Editor extensions.
 
 
-PUN Free versus PUN+
-    The content of the PUN Free and PUN+ packages are identical.
-    We offer a PUN+ package which includes a one-off Photon Cloud Subscription for 100 CCU. See below how this is applied.
-
-
-UnityScript / JavaScript
-    We do not support UnityScript with PUN v2 and up.
-
-
-Help and Documentation
-    Please read the included chm (or pdf).
+Help
     Exit Games Forum:       https://forum.photonengine.com/categories/unity-networking-plugin-pun
     Online documentation:   https://doc.photonengine.com/en-us/pun/v2
     Unity Forum Thread:     https://forum.unity3d.com/threads/photon-unity-networking.101734/
@@ -47,15 +37,15 @@ Server
     Read more about it: https://www.photonengine.com/en-us/OnPremise
 
 
-PUN+ Subscriptions
+If need PUN+ Subscriptions to play
     Follow these steps when you bought an asset that includes a Photon Cloud subscription:
-        • Sign in and open the Dashboard.                       https://dashboard.photonengine.com
+        â€¢ Sign in and open the Dashboard.                       https://dashboard.photonengine.com
           Use an existing Photon Cloud Account or register.
-        • Select the Application/Subscription to upgrade and click "Add Coupon / PUN+".
-        • Enter your Unity Invoice Number.
+        â€¢ Select the Application/Subscription to upgrade and click "Add Coupon / PUN+".
+        â€¢ Enter your Unity Invoice Number.
 
-        • Find the App ID on: https://dashboard.photonengine.com
-        • Find your Unity Invoice Number in the Unity AssetStore:
+        â€¢ Find the App ID on: https://dashboard.photonengine.com
+        â€¢ Find your Unity Invoice Number in the Unity AssetStore:
             https://www.assetstore.unity3d.com/en/#!/account/transactions
             Or while logged in to the Asset Store, click on your name on the top right.
             From the drop-down select the payment method you used in your purchase.
@@ -64,13 +54,6 @@ PUN+ Subscriptions
 
 Important Files
 
-    Documentation
-        PhotonNetwork-Documentation.chm (a pdf is also included)
-        changelog.txt
-
     The server-setup will be saved as file (can be moved into any Resources folder and edited in inspector)
         Photon\PhotonUnityNetworking\Resources\PhotonServerSettings.asset
 
-    Demos
-        All demos are in separate folders in Photon\PhotonUnityNetworking\Demos\. Delete this folder in your projects.
-        Each has a Demo<name>-Scene.
