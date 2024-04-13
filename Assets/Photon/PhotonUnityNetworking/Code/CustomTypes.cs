@@ -1,11 +1,7 @@
 // ----------------------------------------------------------------------------
-// <copyright file="CustomTypes.cs" company="Exit Games GmbH">
-//   PhotonNetwork Framework for Unity - Copyright (C) 2018 Exit Games GmbH
-// </copyright>
 // <summary>
 // Sets up support for Unity-specific types. Can be a blueprint how to register your own Custom Types for sending.
 // </summary>
-// <author>developer@exitgames.com</author>
 // ----------------------------------------------------------------------------
 
 
